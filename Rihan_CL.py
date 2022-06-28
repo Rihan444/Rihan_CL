@@ -13,6 +13,9 @@ from threading import Thread
 import os
 import time
 
+# Reset
+color_off="\033[0m"       # Text Reset
+
 # Regular Colors
 black="\033[0;30m"        # Black
 red="\033[0;31m"          # Red
