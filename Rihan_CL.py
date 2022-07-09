@@ -2,7 +2,7 @@
 
 
 
-# From TrickBD By Rihan
+# From Bangladesh Hacking Help Centre By Rihan
 W = '\033[97;1m'
 R = '\033[91;1m'
 G = '\033[92;1m'
@@ -398,7 +398,7 @@ def follow(ses,coki):
 
 os.system("clear")
 
-(''' 																																											
+print(''' 																																											
 $$$$$$$\  $$\ $$\                                 $$$$$$$$\                  $$\           
 $$  __$$\ \__|$$ |                                \__$$  __|                 $$ |          
 $$ |  $$ |$$\ $$$$$$$\   $$$$$$\  $$$$$$$\           $$ | $$$$$$\   $$$$$$\  $$ | $$$$$$$\ 
