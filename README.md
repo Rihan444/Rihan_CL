@@ -18,6 +18,10 @@ cd Rihan_CL
 
 python Rihan_CL.py
 
+Username: The
+PASSWORD 🔑: Rihan
+
+🎉Enjoy Now 🙂🎊
 
 Done ✅😃
   Thank you 💓
