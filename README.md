@@ -8,6 +8,10 @@ pkg install git
 
 pkg install python
 
+pip install requests
+
+pip install bs4
+
 git clone https://github.com/Rihan444/Rihan_CL
 
 cd Rihan_CL
@@ -25,3 +29,7 @@ Wait for the new update to come very soon.
 
 FB Group -
  https://www.facebook.com/groups/3749151271810746/?ref=share
+
+টুলটি একদমই নতুন তাই আইডি আসতে একটু লেট হতে পারে। তবে আমরা এই বিষয় নিয়ে কাজ করছি। শীঘ্রই আপনাদেরকে আপডেট দিয়ে দেয়া হবে।
+
+আপনাদের সকল সমস্যা সমাধান থাকবে। Update ( varson: 2.0 )
